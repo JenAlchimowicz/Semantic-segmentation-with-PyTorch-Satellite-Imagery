@@ -6,7 +6,7 @@ This project has been developed for Kaggle Competition organised by CentraleSupe
 Final ranking: 1st place
 
 ## Project description
-The task was to utilise deep learning to perform semantic segmentation on satellite imagery. The training dataset consisted of 261 images taken by small UAV in the area of Houston, Texas to assess the damages after Hurricane Harvey. Each pixel was segmented to one of 25 classes such as roof, swimming pool, trees, road, vehicle or flooded (full list at the end of the file). Final score was calculated using the [Dice Coefficient](https://en.wikipedia.org/wiki/Sørensen–Dice_coefficient). The image below shows an example of an original image (left), corresponding mask (middle) and the model's prediction (right).
+The task was to utilise deep learning to perform semantic segmentation on satellite imagery. The training dataset consisted of 261 images taken by small UAV in the area of Houston, Texas to assess the damages after Hurricane Harvey. Each pixel was segmented to one of 25 classes such as roof, trees, road, swimming pool, vehicle or flooded (full list at the end of the file). Final score was calculated using the [Dice Coefficient](https://en.wikipedia.org/wiki/Sørensen–Dice_coefficient). The image below shows an example of an original image (left), corresponding mask (middle) and the model's prediction (right).
 
 ![Alt text](utils/segmentation_mask_example.png?raw=true "Title")
 
