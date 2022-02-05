@@ -26,7 +26,7 @@ Deep Learning, Semantic Segmentation, Satellite Imagery, UNet from scratch, PyTo
   - Adam optimizer
   - Pre-trained encoder weights from imagenet
 9. Evaluation - model performance was evaluated using Dice Score and Accuracy
-10. Results - the best model, DeepLabv3+, achieved Dice Score of 0.775 on 112 test images
+10. Results - the best model, DeepLabv3+, achieved **Dice Score of 0.775** on 112 test images
 
 # Full list of classes
 All classes in the dataset:
