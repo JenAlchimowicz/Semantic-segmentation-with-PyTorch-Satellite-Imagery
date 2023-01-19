@@ -13,6 +13,9 @@ The task was to utilise deep learning to perform semantic segmentation on satell
 ## Tags
 Deep Learning, Semantic Segmentation, Satellite Imagery, UNet from scratch, PyTorch, custom DataLoaders, DeepLabv3+, PSPNet, Dice coefficient, Focal Loss, Transfer Learning
 
+## Dataset
+The dataset originally comes from [Sagar Verma](https://sagarverma.github.io/) and can be downloaded [here](https://figshare.com/collections/semantic_segmentation_satellite_imagery/6026765).
+
 ## Project contents:
 1. Pre-processing I - new samples have been created for under represented classes
 2. Pre-processing II - images and corresponding masks have been resized from 4000x3000 to 368x368 for faster processing
